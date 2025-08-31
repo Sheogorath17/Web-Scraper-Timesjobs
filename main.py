@@ -24,9 +24,6 @@ def find_jobs():
                         f.write(f"Required Skills: {skills.strip()} \n")
                         f.write(f'More Info: {more_info}')
                     print(f'File saved: {index}')
-                        
-                    print(f'File saved: {index}')
-
 
 if __name__== '__main__':
      while True:
